@@ -1,0 +1,4 @@
+Ana: 8.5 - Approved
+Carlos: 6.5 - Failed
+Maria: 9.0 - Approved
+Class average: 8.0
